@@ -1,7 +1,7 @@
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 url: harrymao.github.com
-author: nswebfrog
+author: Mao
 highlighter: rouge
 exclude: ["Rakefile", "CNAME", "README.md"]
 safe: false
