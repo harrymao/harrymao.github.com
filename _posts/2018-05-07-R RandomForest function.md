@@ -19,7 +19,7 @@ R is a free software environment for statistical computing and graphics. It comp
 ```R
 install.packages("randomForest)
 ```
-##Usage
+## Usage
 ---
 ```R
 randomForest(formula, data)
