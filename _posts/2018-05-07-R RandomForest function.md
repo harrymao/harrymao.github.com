@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "randomForest function"
+title: "RandomForest function"
 categories:
 - R
 tags:
