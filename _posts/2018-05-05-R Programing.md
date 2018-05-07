@@ -16,7 +16,7 @@ R is a free software environment for statistical computing and graphics. It comp
 ---
 <https://cran.r-project.org/bin/windows/base/>
 
-```R Install
+```R
 $ yum install R
 
 $ R
@@ -36,6 +36,5 @@ Type 'contributors()' for more information and
 Type 'demo()' for some demos, 'help()' for on-line help, or
 'help.start()' for an HTML browser interface to help.
 Type 'q()' to quit R.
-
 
 ```
